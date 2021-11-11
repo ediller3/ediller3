@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ediller3
-- 👀 I’m interested in robots!
-- 🌱 I’m currently learning ROS.
+- 🤖 I’m interested in robots!
+- 🐢 I’m currently learning ROS.
 - 💞️ I’m looking to collaborate on stuff.
 
 <!---
