@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ediller3
-- 🤖 I’m interested in robots!
-- 💞️ I’m looking to collaborate on stuff.
+Breaking stuff one commit at a time.
 
 <!---
 ediller3/ediller3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
